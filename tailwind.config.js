@@ -11,7 +11,8 @@ module.exports = {
         'secondary-brand-color': '#7849f7',
         'brand-yellow': '#ffd300',
         'custom-yellow': '#ffd300',
-        'custom-gray': '#9ca3af'
+        'custom-gray': '#9ca3af',
+        'custom-white-transparent': '#d4d4d4'
       },
     },
   },
